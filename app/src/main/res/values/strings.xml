@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tugas1AKBIF410120134</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Menu Utama</string>
+    <string name="second_fragment_label">Menu Profil</string>
+    <string name="next">Next</string>
+    <string name="previous">Kembali Ke Menu Utama</string>
+
+    <string name="hello_menu_utama">Hello Ini adalah menu utama</string>
+    <string name="hello_menu_profile">Selamat Data Di Menu Profile</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
